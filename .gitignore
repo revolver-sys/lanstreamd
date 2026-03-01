@@ -1,3 +1,16 @@
+# Binaries
 bin/
+dist/
+
+# Logs
 *.log
+
+# macOS
 .DS_Store
+
+# Vim
+*.swp
+
+# Local configs
+config.yaml
+.config/
