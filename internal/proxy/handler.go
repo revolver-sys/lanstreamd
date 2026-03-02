@@ -1,7 +1,6 @@
 package proxy
 
 import (
-	"bufio"
 	"io"
 	"net"
 	"net/http"
